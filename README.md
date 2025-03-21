@@ -31,4 +31,4 @@ Le projet respecte les critères suivants :
 - Intégration d'une IA pour les joueurs solo.
 
 ## Crédits
-Développé par [SOUM Julien].
+Développé par SOUM Julien.
