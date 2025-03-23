@@ -7,6 +7,7 @@
 Le projet respecte les critères suivants :
 - Prototype en ligne avec création, recherche et rejoindre session.
 - Réplication correcte des fonctionnalités sur serveur et client.
+- Sauvegarde
 
 ## Fonctionnalités Implémentées
 
@@ -21,9 +22,10 @@ Le projet respecte les critères suivants :
 
 ### 4. Sauvegarde de données
 - **Points accumulés et ratio K/D** : Les statistiques des joueurs sont sauvegardées entre les sessions.
+- **Skin du joueur** : Les joueurs ont la possibilite de changer leur skin.
 
 ### 5. Actions des personnages
-- **Mouvements et interactions** : Saut, crouch, sprint et interactions avec l'environnement.
+- **Mouvements et interactions** : Saut, crouch, sprint, shoot, transformation en objet et interactions avec l'environnement.
 
 ## Roadmap & Améliorations Futures
 - Ajout de nouvelles maps et objets interactifs.
