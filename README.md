@@ -34,6 +34,7 @@ Le projet respecte les critères suivants :
 - Intégration d'une IA pour les joueurs solo.
 - Integration d'un systeme de K/D
 - Integration steam
+- VFX, SFX et animations
 
 ## Crédits
 Développé par SOUM Julien.
