@@ -7,28 +7,34 @@
 Le projet respecte les critères suivants :
 - Prototype en ligne avec création, recherche et rejoindre session.
 - Réplication correcte des fonctionnalités sur serveur et client.
+- Sauvegarde
 
 ## Fonctionnalités Implémentées
 
 ### 1. Spawn d'objets
-- **Heal** : Apparition d'objets de soin.
+- **Fake props** : Le joueur a la possibilite de faire spawn un clone afin de pieger les Hunters.
 
 ### 2. Objets en mouvement
-- **Porte animée** : Mécanique d'ouverture et de fermeture.
+- **Porte animée** : La porte qui retient les Hunters en debut de partie.
 
 ### 3. Interaction affichée sur l'UI des autres joueurs
-- **Système de hub / scoreboard** : Affichage des scores et de l'état de la partie pour tous les joueurs.
+- **Affichage de timers** : Affichage du temps de chaques etats de la partie et du temps entre chaque taunt automatique.
+- **Affichage d'information** : Affichage du nombre restant de Mimic.
+
 
 ### 4. Sauvegarde de données
-- **Points accumulés et ratio K/D** : Les statistiques des joueurs sont sauvegardées entre les sessions.
+- **Skin du joueur** : Les joueurs ont la possibilite de changer leur skin.
 
 ### 5. Actions des personnages
-- **Mouvements et interactions** : Saut, crouch, sprint et interactions avec l'environnement.
+- **Mouvements et interactions** : Saut, crouch, sprint, shoot, transformation en objet et clone.
 
 ## Roadmap & Améliorations Futures
 - Ajout de nouvelles maps et objets interactifs.
 - Implementation de GAS pour avoir des abilites.
 - Intégration d'une IA pour les joueurs solo.
+- Integration d'un systeme de K/D
+- Integration steam
+- VFX, SFX et animations
 
 ## Crédits
 Développé par SOUM Julien.
