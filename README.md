@@ -28,6 +28,14 @@ Le projet respecte les critères suivants :
 ### 5. Actions des personnages
 - **Mouvements et interactions** : Saut, crouch, sprint, shoot, transformation en objet et clone.
 
+### Touches
+- **Mouvement** : WASD et souris
+- **Interaction** : E
+- **Tir** : click gauche souris
+- **Taunt** : tab
+- **Pause** : P ou Echap
+- **Figer la rotation** : Q
+
 ## Roadmap & Améliorations Futures
 - Ajout de nouvelles maps et objets interactifs.
 - Implementation de GAS pour avoir des abilites.
